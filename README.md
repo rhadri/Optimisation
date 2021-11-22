@@ -1,2 +1,2 @@
 # Optimisation
-Projet d'optimisation d'un dispatcher d'énergie (approche locale) avec prise en compte d'enjeux économiques et environnementaux
+Exercices d'optimisation de la production d'éléctricité (approche locale puis gloable) avec prise en compte d'enjeux économiques et environnementaux
